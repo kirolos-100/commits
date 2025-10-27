@@ -60,7 +60,7 @@ const makeCommits = async (n) => {
 const startContributions = async () => {
   try {
     console.log("🚀 Starting GitHub contribution generation...");
-    console.log("📧 Using email: kirolosgeorgegaber@gmail.com");
+    console.log("📧 Using email: kerolouis.makram@gmail.com");
     console.log("👤 Using username: kirolos-100");
     console.log("📅 Generating commits for the past year only (no future dates)...");
     console.log("");
