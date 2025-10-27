@@ -22,6 +22,7 @@ const markCommit = (x, y) => {
   });
 };
 
+
 const makeCommits = (n) => {
   if(n===0) return simpleGit().push();
   const x = random.int(0, 54);
